@@ -1,0 +1,7 @@
+# Python build folder and files
+build
+__pycache__
+*.pyc
+
+# VS Code files
+.vscode
